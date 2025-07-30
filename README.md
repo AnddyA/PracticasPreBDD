@@ -1,5 +1,5 @@
-<title>INFORME DE PRÁCTICAS PREPROFESIONALES EN BASE DE DATOS</title>
-
+<h>INFORME DE PRÁCTICAS PREPROFESIONALES EN BASE DE DATOS</h>
+<p></p>
 <p>Caso de Estudio: Sistema de Gestión de Riesgos (SGR) para Proyectos de Software – Universidad Nacional de Loja (UNL)</p>
 <p></p>
 <p>Diagrama E-R</p>
